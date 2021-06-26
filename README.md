@@ -1,1 +1,2 @@
-# adventofcode2017 solutions for 2017.  Fun in python.
+My solutions for the adventofcode for 2017 in python.
+https://adventofcode.com/2017
