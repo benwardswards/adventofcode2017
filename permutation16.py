@@ -49,8 +49,8 @@ if __name__ == "__main__":
     with open("day16.txt") as file:
         data = file.read().strip().split(",")
 
-print("Part 1")
-print(process_data(data, length=16, times=1))
-"Part 2"
-print(process_data(data, length=16, times=10 ** 9))
+    print("Part 1")
+    print(process_data(data, length=16, times=1))
+    "Part 2"
+    print(process_data(data, length=16, times=10 ** 9))
 
